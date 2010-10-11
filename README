@@ -4,7 +4,7 @@ Installation:
 
 Create symlinks:
 
-    ln -s ~/dotfiles/vimrc ~/.vimrc
-    ln -s ~/dotfiles/gvimrc ~/.gvimrc
+    ln -s ~/dotvim/vimrc ~/.vimrc
+    ln -s ~/dotvim/gvimrc ~/.gvimrc
 
 
